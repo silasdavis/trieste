@@ -1,7 +1,7 @@
 # Trieste
-Trieste is an Italian coastal and historical frontier city nearly enclosed by Slovenia. Why not [visit](https://www.turismofvg.it/Locality/Trieste)?
+Trieste is an Italian coastal and historical frontier city partially enclosed by Slovenia. Why not [visit](https://www.turismofvg.it/Locality/Trieste)?
 
-Trieste is also sparse prefix tree library for Go based on ideas from [crit-bit](https://cr.yp.to/critbit.html) and [qp tries](https://dotat.at/prog/qp/README.html).
+Trieste is also a sparse prefix tree library for Go based on ideas from [crit-bit](https://cr.yp.to/critbit.html) and [qp tries](https://dotat.at/prog/qp/README.html).
 
 ## Status
 This is currently a prototype.
